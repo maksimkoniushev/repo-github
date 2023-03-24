@@ -1,0 +1,20 @@
+.console--caption {
+    color: blue;
+    
+}
+
+
+
+.table {
+    border-spacing: 3px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+td,
+tr {
+    border-spacing: 1px;
+    border: 1px solid blue;
+    border-radius: 5px;
+
+}
